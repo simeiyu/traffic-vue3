@@ -1,0 +1,86 @@
+html.dark {
+  --el-color-primary: #2792FF;
+  --el-bg-color-overlay: #0C1849;
+  --el-border-color-light: #0C1849;
+}
+.el-date-editor {
+  --el-date-editor-width: 16rem;
+}
+.el-notification {
+  --el-notification-border-color: #0C1849;
+  &__title {
+    font-size: 14px;
+  }
+  &__content {
+    margin: 0;
+    font-size: 12px;
+  }
+  .el-icon {
+    font-size: 16px;
+  }
+}
+.el-input {
+  --el-input-text-color: rgba(255,255,255,0.65);
+  --el-input-bg-color: transparent;
+  // --el-input-hover-border: #2B4EAA;
+  // --el-input-focus-border: #2B4EAA;
+  --el-input-border-color: #2B4EAA;
+  --el-input-border-radius: 4px;
+  --el-input-icon-color: #4968B4;
+  --el-input-placeholder-color: #5C6592;
+  --el-input-hover-border-color:  #2B4EAA;
+  // --el-input-clear-hover-color: var(--el-text-color-secondary);
+  // --el-input-focus-border-color: var(--el-color-primary);
+}
+.el-picker__popper {
+  --el-datepicker-border-color: #0C1849;
+}
+.el-date-picker {
+  --el-datepicker-text-color: rgba(255,255,255,0.85);
+  --el-datepicker-off-text-color: rgba(255,255,255,0.25);
+  --el-datepicker-header-text-color: rgba(255,255,255,0.85);
+  --el-datepicker-icon-color: rgba(255,255,255,0.65);
+  --el-datepicker-border-color: #0C1849;
+  --el-datepicker-inner-border-color: rgba(255,255,255,0.08);
+  --el-text-color-regular: rgba(255,255,255,0.85);
+  --el-datepicker-active-color: var(--el-color-primary);
+  --el-datepicker-hover-text-color: var(--el-color-primary);
+  width: 28rem;
+  &__header {
+    margin: 0;
+    padding: .8rem 1.2rem .5rem;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    &-label {
+      font-size: 14px;
+    }
+  }
+  .el-picker-panel {
+    &__content {
+      width: auto;
+      margin: .8rem;
+    }
+  }
+  .el-date-table {
+    border-collapse: collapse;
+    th {
+      padding: 0;
+      border: none;
+    }
+    td {
+      padding: 0;
+      width: 36px;
+      height: 36px;
+      .el-date-table-cell .el-date-table-cell__text {
+        border-radius: 2px;
+        border: 1px solid transparent;
+        line-height: 22px;
+      }
+      &.today .el-date-table-cell__text {
+        border-color: var(--el-color-primary);
+      }
+      &.selected .el-date-table-cell__text {
+        border-radius: 2px;
+      }
+    }
+  }
+}

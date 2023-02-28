@@ -1,0 +1,898 @@
+[
+  {
+    "camera_index_code": "bbcd10ab21cf4198853ebec74548af08",
+    "camera_name": "五湖大道与大通路北-ZHJT"
+  },
+  {
+    "camera_index_code": "1fa812f6ba244a74a26a790e139a5c3a",
+    "camera_name": "信成道与方庙路南-ZHJT"
+  },
+  {
+    "camera_index_code": "8974eedcae7143dabf7a5ee637a4a50f",
+    "camera_name": "贡湖大道与大通路西-ZHJT"
+  },
+  {
+    "camera_index_code": "53daf45ca6e14459988c839550256dda",
+    "camera_name": "五湖大道与方庙路西-ZHJT"
+  },
+  {
+    "camera_index_code": "c0565a7b027b40fa858daf3872252413",
+    "camera_name": "信成道与方庙路东-ZHJT"
+  },
+  {
+    "camera_index_code": "46c70c9f02534779b89d5127bd044ccb",
+    "camera_name": "信成道与方庙路西-ZHJT"
+  },
+  {
+    "camera_index_code": "02ccc17760314b5c98158b19eebc5087",
+    "camera_name": "万顺道与周新路东-ZHJT"
+  },
+  {
+    "camera_index_code": "255ad1b04408400cb5da7e90e8043f33",
+    "camera_name": "贡湖大道与锡南路南-ZHJT"
+  },
+  {
+    "camera_index_code": "61a8b921fb064f309318abc2f449c511",
+    "camera_name": "五湖大道与方庙路北-ZHJT"
+  },
+  {
+    "camera_index_code": "df38497cf4f04918b3de7561eaed1d78",
+    "camera_name": "信成道与大通路南-ZHJT"
+  },
+  {
+    "camera_index_code": "5ba9305668484f709a8741439549435c",
+    "camera_name": "瑞景道与吴都路北-ZHJT"
+  },
+  {
+    "camera_index_code": "81df39f2148a4f2cb9aae19cdce613df",
+    "camera_name": "万顺道与周新路北-ZHJT"
+  },
+  {
+    "camera_index_code": "7c65fa3ac84148fc9860416ff7a07f16",
+    "camera_name": "运河西路与菱湖大道北-ZHJT"
+  },
+  {
+    "camera_index_code": "b6e0b47dd60b48039a04e1a7b5099c7a",
+    "camera_name": "贡湖大道与金石路南-ZHJT"
+  },
+  {
+    "camera_index_code": "5ec162d45b24402b99cce50fbc83b0b6",
+    "camera_name": "贡湖大道与金石路东-ZHJT"
+  },
+  {
+    "camera_index_code": "3a4bce3fa06e4821b880882f985fa209",
+    "camera_name": "万顺道与周新路西-ZHJT"
+  },
+  {
+    "camera_index_code": "1a8ab5a3a2a848cdbffd423c095b96ba",
+    "camera_name": "万顺道与金石路西-ZHJT"
+  },
+  {
+    "camera_index_code": "135de3696bab442692625432b8159a98",
+    "camera_name": "万顺道与金石路南-ZHJT"
+  },
+  {
+    "camera_index_code": "ae3dd55e0df6459dbe4d48119c4bca43",
+    "camera_name": "信成道与方庙路北-ZHJT"
+  },
+  {
+    "camera_index_code": "586fa55374cc498a9ef5dfc323f53ae9",
+    "camera_name": "瑞景道与北霞路西-ZHJT"
+  },
+  {
+    "camera_index_code": "920e0a609de848169b15a9dacfbfc8ce",
+    "camera_name": "贡湖大道与大通路东-ZHJT"
+  },
+  {
+    "camera_index_code": "8a2affafb70d469584a4b365e5bad89b",
+    "camera_name": "五湖大道与具区路东-ZHJT"
+  },
+  {
+    "camera_index_code": "7efc6f364c8447a99224f586668c744c",
+    "camera_name": "瑞景道与吴都路东-ZHJT"
+  },
+  {
+    "camera_index_code": "c5b72d5703ec44ca8bbe3e1c73402948",
+    "camera_name": "运河西路与高浪大桥南-ZHJT"
+  },
+  {
+    "camera_index_code": "2e6fc35d2be546119a43ab15c5d0d0e3",
+    "camera_name": "万顺道与周新路南-ZHJT"
+  },
+  {
+    "camera_index_code": "3256f5b9fa21429db112eabfbc582adb",
+    "camera_name": "瑞景道与北霞路南-ZHJT"
+  },
+  {
+    "camera_index_code": "ea84f859a3b141d89e398984f2934482",
+    "camera_name": "贡湖大道与大通路南-ZHJT"
+  },
+  {
+    "camera_index_code": "06bd8758e810490b84e7e18feb515429",
+    "camera_name": "华清大道与观山路北-ZHJT"
+  },
+  {
+    "camera_index_code": "d1218069d8f948f695764b9c2fda08b6",
+    "camera_name": "万顺道与金石路北-ZHJT"
+  },
+  {
+    "camera_index_code": "fc9e2cf502c44bdaab4f8b46fe642b14",
+    "camera_name": "华清大道与吴都路东-ZHJT"
+  },
+  {
+    "camera_index_code": "1eca352fffd54a5c9e28300f15bd17ea",
+    "camera_name": "华清大道与观山路西-ZHJT"
+  },
+  {
+    "camera_index_code": "69599fd63c5b49fb9fdea20913379558",
+    "camera_name": "五湖大道与观山路西-ZHJT"
+  },
+  {
+    "camera_index_code": "9daf99f3cb5e408982127c9fbd20664e",
+    "camera_name": "五湖大道与具区路北-ZHJT"
+  },
+  {
+    "camera_index_code": "ef08362efe8d4ed99c6ad536bfd802bb",
+    "camera_name": "华清大道与观山路东-ZHJT"
+  },
+  {
+    "camera_index_code": "101a78f0efa247a7a0adeb6f62ebc646",
+    "camera_name": "运河西路与高浪大桥东-ZHJT"
+  },
+  {
+    "camera_index_code": "d9dfdc1ba0704e88a063232552782f2b",
+    "camera_name": "华清大道与吴都路北-ZHJT"
+  },
+  {
+    "camera_index_code": "b82264971ad24b1a84e4111c4ce2d3e0",
+    "camera_name": "信成道与周新路北-ZHJT"
+  },
+  {
+    "camera_index_code": "5cd7f158b8c84879b282de9926c46477",
+    "camera_name": "信成道与周新路南-ZHJT"
+  },
+  {
+    "camera_index_code": "4023cd8c3eae4294a3181a7bca27962f",
+    "camera_name": "万顺道与吴都路西-ZHJT"
+  },
+  {
+    "camera_index_code": "ff2459b6ce134dc98bd35077ee163926",
+    "camera_name": "信成道与周新路东-ZHJT"
+  },
+  {
+    "camera_index_code": "4b80d99bdd7a4f03abdef041aa9a933b",
+    "camera_name": "信成道与周新路西-ZHJT"
+  },
+  {
+    "camera_index_code": "497f986f89c948cb9b48389dd85930ce",
+    "camera_name": "五湖大道与观山路南-ZHJT"
+  },
+  {
+    "camera_index_code": "52960a648bdf4b408bb3eb849c9af5d2",
+    "camera_name": "贡湖大道与锡南路北-ZHJT"
+  },
+  {
+    "camera_index_code": "9a0fb06292844049bf2fdfaab77f1cdb",
+    "camera_name": "五湖大道与维港路南-ZHJT"
+  },
+  {
+    "camera_index_code": "37166cdfe2d240538964f7ca8f0940e4",
+    "camera_name": "立信大道与方庙路南-ZHJT"
+  },
+  {
+    "camera_index_code": "e0ffda03acf94c31ab701b3677d7e79f",
+    "camera_name": "信成道与观山路北-ZHJT"
+  },
+  {
+    "camera_index_code": "47a1d4674ceb4b7b86bd96067223ef66",
+    "camera_name": "瑞景道与高运路东-ZHJT"
+  },
+  {
+    "camera_index_code": "95e3d1cab7ff4d1eb55f9a4c467325cc",
+    "camera_name": "五湖大道与观山路东-ZHJT"
+  },
+  {
+    "camera_index_code": "d9e5b83c4ce04861afa5872e14a8cc04",
+    "camera_name": "华清大道与高运路北-ZHJT"
+  },
+  {
+    "camera_index_code": "a94d897a2bd64de88bccefee8cbb0285",
+    "camera_name": "瑞景道与高运路南-ZHJT"
+  },
+  {
+    "camera_index_code": "3dcc9644236d46469c866ef0514a55e8",
+    "camera_name": "华清大道与高运路东-ZHJT"
+  },
+  {
+    "camera_index_code": "dfce925aee044fb48bbc5cad481363f0",
+    "camera_name": "万顺道与大通路西-ZHJT"
+  },
+  {
+    "camera_index_code": "2de92d7aa154406ba60fd5fa77b54ecb",
+    "camera_name": "瑞景道与高运路西-ZHJT"
+  },
+  {
+    "camera_index_code": "9a3f9fb663c14683ae967ff71df8494d",
+    "camera_name": "华清大道与周新路东-ZHJT"
+  },
+  {
+    "camera_index_code": "7f7e1ec543104b7884c14887b5216b1b",
+    "camera_name": "万顺道与大通路北-ZHJT"
+  },
+  {
+    "camera_index_code": "d72573b99a5a4463a8eb6bfbd6ee3abb",
+    "camera_name": "贡湖大道与大通路北-ZHJT"
+  },
+  {
+    "camera_index_code": "85c1616aaae540e0b6e47f3bda6a9cd9",
+    "camera_name": "华清大道与大通路西-ZHJT"
+  },
+  {
+    "camera_index_code": "a52803b48b394c6a9b65acaab72ec45d",
+    "camera_name": "华清大道与周新路北-ZHJT"
+  },
+  {
+    "camera_index_code": "635c68557ab7433b870b149332577a86",
+    "camera_name": "立信大道与大通路东-ZHJT"
+  },
+  {
+    "camera_index_code": "b3389a572938459ab857a55346af177d",
+    "camera_name": "观顺道与观山路南-ZHJT"
+  },
+  {
+    "camera_index_code": "db37cd8a848a414fa4828c887369cb1f",
+    "camera_name": "信成道与吴都路东-ZHJT"
+  },
+  {
+    "camera_index_code": "4a3491da21884094b7df6ea800b2e780",
+    "camera_name": "华清大道与周新路西-ZHJT"
+  },
+  {
+    "camera_index_code": "ac284cea15bc41a8a852a1da1596cc7b",
+    "camera_name": "观顺道与观山路东-ZHJT"
+  },
+  {
+    "camera_index_code": "99490d39384b44778448740b30a71710",
+    "camera_name": "信成道与吴都路北-ZHJT"
+  },
+  {
+    "camera_index_code": "be476c6e2aea4b8f82616a9469b1bcf6",
+    "camera_name": "华清大道与高运路西-ZHJT"
+  },
+  {
+    "camera_index_code": "1fb2a85446294506a9279b11a26ea893",
+    "camera_name": "华清大道与大通路南-ZHJT"
+  },
+  {
+    "camera_index_code": "66f54cbd9f864ea98c4fef5594734e13",
+    "camera_name": "信成道与吴都路西-ZHJT"
+  },
+  {
+    "camera_index_code": "5a64ff8e2e6f4669bdaed6dcd1406b61",
+    "camera_name": "五湖大道与和风路南-ZHJT"
+  },
+  {
+    "camera_index_code": "39f6e9010d5d4f7fa3da8fc90e709ae6",
+    "camera_name": "观顺道与观山路北-ZHJT"
+  },
+  {
+    "camera_index_code": "6606b6e8f54a4a0c8c1c95d9f0c2ec93",
+    "camera_name": "信成道与观山路南-ZHJT"
+  },
+  {
+    "camera_index_code": "c63860e9ce414c5c914496dc7de413cb",
+    "camera_name": "运河西路与菱湖大道东-ZHJT"
+  },
+  {
+    "camera_index_code": "656a98c5e27048bca255310a049dfd6f",
+    "camera_name": "华清大道与大通路东-ZHJT"
+  },
+  {
+    "camera_index_code": "a06b8d68ab1d401fa6dc51d4045c7aca",
+    "camera_name": "信成道与吴都路南-ZHJT"
+  },
+  {
+    "camera_index_code": "39aa0cdeddb64417b45344040351d8af",
+    "camera_name": "信成道与观山路东-ZHJT"
+  },
+  {
+    "camera_index_code": "91402c39e80b43acb18a827d2c975f21",
+    "camera_name": "五湖大道与和风路北-ZHJT"
+  },
+  {
+    "camera_index_code": "3269f9669bdb4ff9af544feaa39885b2",
+    "camera_name": "华清大道与高运路南-ZHJT"
+  },
+  {
+    "camera_index_code": "71d88006414945dc82804e48d8054529",
+    "camera_name": "五湖大道与大通路西-ZHJT"
+  },
+  {
+    "camera_index_code": "f6d902278dcb42cb863c170aaf04380b",
+    "camera_name": "信成道与观山路西-ZHJT"
+  },
+  {
+    "camera_index_code": "358e7787f4aa4522b1fc3e7f0eeb224d",
+    "camera_name": "立信大道与大通路北-ZHJT"
+  },
+  {
+    "camera_index_code": "f518d958e74645348aa9e72f42feee12",
+    "camera_name": "立信大道与新园路北-ZHJT"
+  },
+  {
+    "camera_index_code": "a750667464af434d8811c2f383c40550",
+    "camera_name": "五湖大道与大通路南-ZHJT"
+  },
+  {
+    "camera_index_code": "207e9400e11945f2b9640e21f8cedcf4",
+    "camera_name": "五湖大道与金石路南-ZHJT"
+  },
+  {
+    "camera_index_code": "daf4b074edcd4a3e964d55cd5fc99499",
+    "camera_name": "五湖大道与大通路东-ZHJT"
+  },
+  {
+    "camera_index_code": "698dfcd8806742a69e84e737f21a8dd6",
+    "camera_name": "运河西路与菱湖大道南-ZHJT"
+  },
+  {
+    "camera_index_code": "bcbad6e65b2a4510841b46f184a8ff9f",
+    "camera_name": "立信大道与和风路北-ZHJT"
+  },
+  {
+    "camera_index_code": "bbde7e165f704c4a871124df57ce174a",
+    "camera_name": "华清大道与和风路北-ZHJT"
+  },
+  {
+    "camera_index_code": "3607b190ff5a4711ad92120bf5f0551a",
+    "camera_name": "立信大道与新园路西-ZHJT"
+  },
+  {
+    "camera_index_code": "489bb5386ed2400b8114ffa05f6c2020",
+    "camera_name": "五湖大道与金石路北-ZHJT"
+  },
+  {
+    "camera_index_code": "a37b46262eb04c1493ce71dd125556c3",
+    "camera_name": "立信大道与新园路南-ZHJT"
+  },
+  {
+    "camera_index_code": "86b1b484c022426b9e4704fb80c5fdb6",
+    "camera_name": "五湖大道与金石路东-ZHJT"
+  },
+  {
+    "camera_index_code": "68301ed846ea438f9f79e74a885033c9",
+    "camera_name": "立信大道与大通路西-ZHJT"
+  },
+  {
+    "camera_index_code": "c42564bc5a484545b16877a42cdf9c8c",
+    "camera_name": "五湖大道与维港路北-ZHJT"
+  },
+  {
+    "camera_index_code": "9df911eef58a4e8c8509ebf32508a471",
+    "camera_name": "华清大道与和风路西-ZHJT"
+  },
+  {
+    "camera_index_code": "a1f4b31a9e924f39840190be80c872e8",
+    "camera_name": "五湖大道与清晏路东-ZHJT"
+  },
+  {
+    "camera_index_code": "2cd503dad1f446109a7640a34384fe13",
+    "camera_name": "五湖大道与金石路西-ZHJT"
+  },
+  {
+    "camera_index_code": "c5826eec31694d8b9000dd11e0ffe6ad",
+    "camera_name": "五湖大道与清晏路西-ZHJT"
+  },
+  {
+    "camera_index_code": "b650b309e6884a878813e33b64323c7e",
+    "camera_name": "立信大道与和风路西-ZHJT"
+  },
+  {
+    "camera_index_code": "9b6c1651c273418fa0529f01dfd92801",
+    "camera_name": "五湖大道与清晏路南-ZHJT"
+  },
+  {
+    "camera_index_code": "0529022d681244488e924000ea6715ef",
+    "camera_name": "立信大道与和风路南-ZHJT"
+  },
+  {
+    "camera_index_code": "ac6b464f66ca4695829847cf8d0c5112",
+    "camera_name": "立德道与方庙路东-ZHJT"
+  },
+  {
+    "camera_index_code": "bb533a0634324ff98041df2385a62a3b",
+    "camera_name": "万顺道与方庙路南-ZHJT"
+  },
+  {
+    "camera_index_code": "83e881501c304547bb67e7c95daaf8c3",
+    "camera_name": "立德道与方庙路南-ZHJT"
+  },
+  {
+    "camera_index_code": "fb2fd31708414ed2948d37b8e8f84e0b",
+    "camera_name": "立信大道与新园路东-ZHJT"
+  },
+  {
+    "camera_index_code": "9632a9fd28b641d29e05de275f939057",
+    "camera_name": "观顺道与观山路西-ZHJT"
+  },
+  {
+    "camera_index_code": "317b2031cd80483488ef0741c764a2d4",
+    "camera_name": "万顺道与方庙路东-ZHJT"
+  },
+  {
+    "camera_index_code": "06b32e37f4e14d4e89e026183e2d17fd",
+    "camera_name": "万顺道与维港路西-ZHJT"
+  },
+  {
+    "camera_index_code": "c595ac6bd6004025990263f2ad4129cd",
+    "camera_name": "贡湖大道与和畅路东-ZHJT"
+  },
+  {
+    "camera_index_code": "7a04b7c9eb7043d6a70e3daa165675e2",
+    "camera_name": "贡湖大道与震泽路北-ZHJT"
+  },
+  {
+    "camera_index_code": "8d95865cc2c343b9bdc9be880d072604",
+    "camera_name": "贡湖大道与和畅路西-ZHJT"
+  },
+  {
+    "camera_index_code": "7e38d69285314057a70fbdf8f41621e1",
+    "camera_name": "万顺道与吴都路北-ZHJT"
+  },
+  {
+    "camera_index_code": "1eadd7b46b134de1b9df934545832172",
+    "camera_name": "五湖大道与震泽路东-ZHJT"
+  },
+  {
+    "camera_index_code": "f9530ae9878d4f55a763020af276e119",
+    "camera_name": "贡湖大道与和畅路北-ZHJT"
+  },
+  {
+    "camera_index_code": "743ef84c5f1f44c6b8d535c0400ec540",
+    "camera_name": "贡湖大道与震泽路东-ZHJT"
+  },
+  {
+    "camera_index_code": "e168b8aa8d7941079bdcbdba4e8fc069",
+    "camera_name": "贡湖大道与周新路西-ZHJT"
+  },
+  {
+    "camera_index_code": "8df7dd70e31548ef8e5dcbbef0717f3c",
+    "camera_name": "五湖大道与周新路东-ZHJT"
+  },
+  {
+    "camera_index_code": "351b5ed388bd4dedb830daa40baf5812",
+    "camera_name": "五湖大道与周新路西-ZHJT"
+  },
+  {
+    "camera_index_code": "be7d0672fa704b23b1e5afe511cecf62",
+    "camera_name": "五湖大道与周新路北-ZHJT"
+  },
+  {
+    "camera_index_code": "65e6c66887ac4cc2b692ec02df219140",
+    "camera_name": "贡湖大道与周新路北-ZHJT"
+  },
+  {
+    "camera_index_code": "153587c579bc4c38b1d8c233c35d4a17",
+    "camera_name": "瑞景道与观山路南-ZHJT"
+  },
+  {
+    "camera_index_code": "7a67f64229d1451e840a4e6fbec0c513",
+    "camera_name": "五湖大道与震泽路北-ZHJT"
+  },
+  {
+    "camera_index_code": "2b69d159793649c19ba8b8199de5282c",
+    "camera_name": "瑞景道与观山路西-ZHJT"
+  },
+  {
+    "camera_index_code": "2ce1292539404eed94a7651ac49e26c9",
+    "camera_name": "五湖大道与观山路北-ZHJT"
+  },
+  {
+    "camera_index_code": "9f483174834e436ab3e3da74e2565584",
+    "camera_name": "五湖大道与震泽路西-ZHJT"
+  },
+  {
+    "camera_index_code": "1c618d2d78934693a10c2544a32fe48c",
+    "camera_name": "瑞景道与观山路北-ZHJT"
+  },
+  {
+    "camera_index_code": "f5eaba2cf9a64f4f80e460997d308caf",
+    "camera_name": "立信大道与大通路南-ZHJT"
+  },
+  {
+    "camera_index_code": "3c3b0d70ac244be7b8272d3358cdddcb",
+    "camera_name": "华清大道与吴都路西-ZHJT"
+  },
+  {
+    "camera_index_code": "a32a63db039f46518ac3d8a892221b83",
+    "camera_name": "瑞景道与观山路东-ZHJT"
+  },
+  {
+    "camera_index_code": "1d375279c7584924bac467d7c8cb6438",
+    "camera_name": "贡湖大道与和风路南-ZHJT"
+  },
+  {
+    "camera_index_code": "35dd581eb40e4c10979abca51af04c84",
+    "camera_name": "贡湖大道与和畅路南-ZHJT"
+  },
+  {
+    "camera_index_code": "cfa3e9a92b85429782f7f8d12ab8faf5",
+    "camera_name": "贡湖大道与和风路东-ZHJT"
+  },
+  {
+    "camera_index_code": "131c55eff3264c90b67ae0a72518396a",
+    "camera_name": "瑞景道与吴都路西-ZHJT"
+  },
+  {
+    "camera_index_code": "df371f72e1454ae88ceec7c632cff6fc",
+    "camera_name": "万顺道与金石路东-ZHJT"
+  },
+  {
+    "camera_index_code": "796df70defa3443783d9e791064c9ff0",
+    "camera_name": "信成道与南蒋路东-ZHJT"
+  },
+  {
+    "camera_index_code": "ce553a33b0324e2097fce305c123561d",
+    "camera_name": "贡湖大道与周新路东-ZHJT"
+  },
+  {
+    "camera_index_code": "15fb9f2271254792b4b1f79805318f58",
+    "camera_name": "五湖大道与方庙路南-ZHJT"
+  },
+  {
+    "camera_index_code": "de7387b71eab4a9789cb4b8544b183a1",
+    "camera_name": "五湖大道与方庙路东-ZHJT"
+  },
+  {
+    "camera_index_code": "d5b18b32519b4b8da8a966a405ebf5bd",
+    "camera_name": "万顺道与维港路南-ZHJT"
+  },
+  {
+    "camera_index_code": "03c9b88404894568bc882cd421e69a91",
+    "camera_name": "信成道与南蒋路南-ZHJT"
+  },
+  {
+    "camera_index_code": "2e1c565380644a5aac8664299bc30772",
+    "camera_name": "万顺道与维港路北-ZHJT"
+  },
+  {
+    "camera_index_code": "fe85a1bac80b4d2d819adf07ab568f46",
+    "camera_name": "万顺道与大剧院路东-ZHJT"
+  },
+  {
+    "camera_index_code": "8efdc296de544f509360e0e177e6ff2b",
+    "camera_name": "华清大道与和畅路南-ZHJT"
+  },
+  {
+    "camera_index_code": "cd6d3e1e2d7d4b789db2eed4cfe89f06",
+    "camera_name": "华清大道与和畅路东-ZHJT"
+  },
+  {
+    "camera_index_code": "eca597627748449b8418c25c5f9ebba5",
+    "camera_name": "华清大道与和畅路西-ZHJT"
+  },
+  {
+    "camera_index_code": "26bac896a7fb45948cd0ac3e3b8e2de6",
+    "camera_name": "立信大道与观山路东-ZHJT"
+  },
+  {
+    "camera_index_code": "8d2f72b9a0a74629a69200e60acac6ba",
+    "camera_name": "贡湖大道与周新路南-ZHJT"
+  },
+  {
+    "camera_index_code": "64bfdd4a43a446f6bf5ed078a1194e38",
+    "camera_name": "立信大道与观山路西-ZHJT"
+  },
+  {
+    "camera_index_code": "b6ea291ffb6a4a8b9252a5abdbd9fc19",
+    "camera_name": "华清大道与观山路南-ZHJT"
+  },
+  {
+    "camera_index_code": "f2f5f814ba2644749367cc37047e66eb",
+    "camera_name": "华清大道与大通路北-ZHJT"
+  },
+  {
+    "camera_index_code": "6dc28b887daa45feb13569eb66c8e3d8",
+    "camera_name": "立信大道与观山路北-ZHJT"
+  },
+  {
+    "camera_index_code": "75c5e3ad9ef34354ad0f8df1d1b06f80",
+    "camera_name": "华清大道与吴都路南-ZHJT"
+  },
+  {
+    "camera_index_code": "13a85236e8ca48558ee6f8a2125be0f8",
+    "camera_name": "华清大道与和畅路北-ZHJT"
+  },
+  {
+    "camera_index_code": "c165c3fa5e0d4143b3066e87a3ce99fa",
+    "camera_name": "瑞景道与吴都路南-ZHJT"
+  },
+  {
+    "camera_index_code": "11ef3057ee8c4ca599fc693cf56fdf4c",
+    "camera_name": "立信大道与震泽路北-ZHJT"
+  },
+  {
+    "camera_index_code": "51a492cc79a74d02b221eabf9a355cbe",
+    "camera_name": "立信大道与震泽路西-ZHJT"
+  },
+  {
+    "camera_index_code": "95c728f05e744f368605fa1f882f0c95",
+    "camera_name": "五湖大道与清晏路北-ZHJT"
+  },
+  {
+    "camera_index_code": "5a9b5a93fc084c9f8d5541f561435826",
+    "camera_name": "贡湖大道与金石路西-ZHJT"
+  },
+  {
+    "camera_index_code": "15367dbd5c9844eba4f472068b02aa6f",
+    "camera_name": "万顺道与吴都路东-ZHJT"
+  },
+  {
+    "camera_index_code": "5faeebaad7a94e2ea6799f1beded0ea0",
+    "camera_name": "运河西路与高浪大桥北-ZHJT"
+  },
+  {
+    "camera_index_code": "83c6524bcd284507b0646129178670b1",
+    "camera_name": "贡湖大道与和风路北-ZHJT"
+  },
+  {
+    "camera_index_code": "08b0566804a04893b777a65dbcb2d102",
+    "camera_name": "万顺道与吴都路南-ZHJT"
+  },
+  {
+    "camera_index_code": "9df76b5127ae4dfcbd4ad10d54a0fdd8",
+    "camera_name": "立信大道与观山路南-ZHJT"
+  },
+  {
+    "camera_index_code": "14fcbab1a05a415f89090fa02986d8a1",
+    "camera_name": "瑞景道与高运路北-ZHJT"
+  },
+  {
+    "camera_index_code": "fa80a4130179435b822a3b07576d30bb",
+    "camera_name": "贡湖大道与金石路北-ZHJT"
+  },
+  {
+    "camera_index_code": "6eeac6a0b0b04f78b884e0958259c109",
+    "camera_name": "瑞景道与北霞路东-ZHJT"
+  },
+  {
+    "camera_index_code": "daed378c6c104d6ca4dcbbc37236a56e",
+    "camera_name": "贡湖大道与和风路西-ZHJT"
+  },
+  {
+    "camera_index_code": "432be6a438ec45c5b4dc3cf48b6e4863",
+    "camera_name": "五湖大道与吴都路北-ZHJT"
+  },
+  {
+    "camera_index_code": "8eb9f0f5d1704670812ce3b1841d7a31",
+    "camera_name": "五湖大道与吴都路西-ZHJT"
+  },
+  {
+    "camera_index_code": "ee742bc6f16748cdb0a2d989e4f10ef6",
+    "camera_name": "五湖大道与震泽路南-ZHJT"
+  },
+  {
+    "camera_index_code": "9d1a6d973e2b47e793d21a9b79310d25",
+    "camera_name": "五湖大道与吴都路东-ZHJT"
+  },
+  {
+    "camera_index_code": "ce92def8632c4d8fbe32b905752e8c73",
+    "camera_name": "五湖大道与吴都路南-ZHJT"
+  },
+  {
+    "camera_index_code": "b678c97a57e4487289dc73ec0bd45474",
+    "camera_name": "五湖大道与清源路北-ZHJT"
+  },
+  {
+    "camera_index_code": "db49cdf0a200442dbe8bfe889ed65db2",
+    "camera_name": "五湖大道与清源路东-ZHJT"
+  },
+  {
+    "camera_index_code": "5551c682a470451a8afe8c441b560bb8",
+    "camera_name": "五湖大道与清源路西-ZHJT"
+  },
+  {
+    "camera_index_code": "adbb3a32a5bc4141bfb45904600e305a",
+    "camera_name": "五湖大道与清源路南-ZHJT"
+  },
+  {
+    "camera_index_code": "18bdb7c25fe74532b9143b7e090a7c63",
+    "camera_name": "五湖大道与具区路南-ZHJT"
+  },
+  {
+    "camera_index_code": "7aa640e919e84853a0fe2bceeab1287d",
+    "camera_name": "五湖大道与具区路西-ZHJT"
+  },
+  {
+    "camera_index_code": "c80aba5c90fa446fb4e06a8160579ff5",
+    "camera_name": "万顺道与观山路北-ZHJT"
+  },
+  {
+    "camera_index_code": "7645437722b344beb013f9c5973f4f93",
+    "camera_name": "万顺道与观山路东-ZHJT"
+  },
+  {
+    "camera_index_code": "091d81c8fc034bbeb77d0d20fdcb1fb0",
+    "camera_name": "万顺道与观山路南-ZHJT"
+  },
+  {
+    "camera_index_code": "3435fa3073d64f9cb065384c4d800eb9",
+    "camera_name": "瑞景道与和畅路南-ZHJT"
+  },
+  {
+    "camera_index_code": "dfaa315e8a224238a838d9c2cc6cbfc6",
+    "camera_name": "瑞景道与和畅路西-ZHJT"
+  },
+  {
+    "camera_index_code": "e16132348ef44f428b74f25cd749cf17",
+    "camera_name": "瑞景道与和畅路北-ZHJT"
+  },
+  {
+    "camera_index_code": "5812a3b402d1428183df07f994d68469",
+    "camera_name": "瑞景道与和畅路东-ZHJT"
+  },
+  {
+    "camera_index_code": "8c59ccad02e247efa431c3b758e32bde",
+    "camera_name": "华清大道与周新路南-ZHJT"
+  },
+  {
+    "camera_index_code": "28c8602ff6974131a4c080b862eb4786",
+    "camera_name": "瑞景道与和风路西-ZHJT"
+  },
+  {
+    "camera_index_code": "de6c4639935a444eae09c77d37c2ec4c",
+    "camera_name": "瑞景道与和风路北-ZHJT"
+  },
+  {
+    "camera_index_code": "c329e5d41afe4c2abb88dcc21af98b78",
+    "camera_name": "立信大道与震泽路南-ZHJT"
+  },
+  {
+    "camera_index_code": "f5d17c737fca484980e772124c864288",
+    "camera_name": "贡湖大道与清晏路东-ZHJT"
+  },
+  {
+    "camera_index_code": "3b071fd9a0c64c33aca2cc390a829b15",
+    "camera_name": "万顺道与大通路南-ZHJT"
+  },
+  {
+    "camera_index_code": "c98ba6467a354081b9fd9b1a70e07e02",
+    "camera_name": "万顺道与大通路东-ZHJT"
+  },
+  {
+    "camera_index_code": "330c30b6fc82405eb901e168efe4df75",
+    "camera_name": "万顺道与大剧院路西-ZHJT"
+  },
+  {
+    "camera_index_code": "3777a03705ff42bbb8945b691a2fa3ca",
+    "camera_name": "立信大道与和风路东-ZHJT"
+  },
+  {
+    "camera_index_code": "36ba01744e8b4b82861e19243f129b1a",
+    "camera_name": "立信大道与方庙路北-ZHJT"
+  },
+  {
+    "camera_index_code": "a890f8a4f7e14d1f9e628ddd131305a3",
+    "camera_name": "华清大道与和风路东-ZHJT"
+  },
+  {
+    "camera_index_code": "a86d58bdea5e433a818d4298c1e71548",
+    "camera_name": "万顺道与维港路东-ZHJT"
+  },
+  {
+    "camera_index_code": "e076836a46d04b909cd0cf55ceb9c3a3",
+    "camera_name": "信成道与大通路北-ZHJT"
+  },
+  {
+    "camera_index_code": "decddca163884df7841f51c0822950de",
+    "camera_name": "信成道与大通路东-ZHJT"
+  },
+  {
+    "camera_index_code": "557a664fb250465faa9754368555f5fa",
+    "camera_name": "瑞景道与和风路东-ZHJT"
+  },
+  {
+    "camera_index_code": "3d06f4d9f3504e3fb71a92f81558b950",
+    "camera_name": "瑞景道与和风路南-ZHJT"
+  },
+  {
+    "camera_index_code": "062aad0744e44fe4b5967e063b555f96",
+    "camera_name": "瑞景道与北霞路北-ZHJT"
+  },
+  {
+    "camera_index_code": "b5b3a8a300654ff9a83c327106fc5cf4",
+    "camera_name": "万顺道与方庙路北-ZHJT"
+  },
+  {
+    "camera_index_code": "5fdcf53da333401ea9d58d8630b5f1d0",
+    "camera_name": "立信大道与方庙路东-ZHJT"
+  },
+  {
+    "camera_index_code": "6681fbce737948ffaddfced91efe8447",
+    "camera_name": "立信大道与震泽路东-ZHJT"
+  },
+  {
+    "camera_index_code": "884e96f335af416d88f0e8f28820fd18",
+    "camera_name": "贡湖大道与清晏路北-ZHJT"
+  },
+  {
+    "camera_index_code": "388a879c5f6946299ebbd0497c43b7e6",
+    "camera_name": "贡湖大道与清晏路西-ZHJT"
+  },
+  {
+    "camera_index_code": "9c4cd4fbf95c4fecbf6d5e4c43d3804b",
+    "camera_name": "信成道与南蒋路西-ZHJT"
+  },
+  {
+    "camera_index_code": "180578c2c76941f290571ba1c3d35e9c",
+    "camera_name": "信成道与南蒋路北-ZHJT"
+  },
+  {
+    "camera_index_code": "001f2bb6f91b4e5687f69cd3c35ec46d",
+    "camera_name": "立德道与方庙路北-ZHJT"
+  },
+  {
+    "camera_index_code": "b4dd5c3ec5ae4e58aa4e3d8da12f85c6",
+    "camera_name": "立德道与方庙路西-ZHJT"
+  },
+  {
+    "camera_index_code": "16f1cf0fc2ac49398055672fda08d21f",
+    "camera_name": "贡湖大道与清晏路南-ZHJT"
+  },
+  {
+    "camera_index_code": "239bcdcc2d5749a5aca9d3d8e9baa9c9",
+    "camera_name": "五湖大道与周新路南-ZHJT"
+  },
+  {
+    "camera_index_code": "dcbdcedd427b4c8398f9c151cc905252",
+    "camera_name": "万顺道与观山路西-ZHJT"
+  },
+  {
+    "camera_index_code": "4bdc7f54c11d4026bc7102f262667695",
+    "camera_name": "华清大道与和风路南-ZHJT"
+  },
+  {
+    "camera_index_code": "bb1810ccc40a4ed0add38a91795c966d",
+    "camera_name": "立德道与吴都路南-ZHJT"
+  },
+  {
+    "camera_index_code": "1028b4359f804b00b3832bafb071df27",
+    "camera_name": "立德道与吴都路北-ZHJT"
+  },
+  {
+    "camera_index_code": "b6912e2c38a443fda9945150fa5a4c7f",
+    "camera_name": "立德道与吴都路西-ZHJT"
+  },
+  {
+    "camera_index_code": "0c05e5e324fa4405a58284fb12761dbf",
+    "camera_name": "立德道与吴都路东-ZHJT"
+  },
+  {
+    "camera_index_code": "0286161c27b3449d9891004cbdaf54a3",
+    "camera_name": "立信大道与吴都路北-ZHJT"
+  },
+  {
+    "camera_index_code": "f72a5a1420e44796ac110319762d2729",
+    "camera_name": "立信大道与吴都路东-ZHJT"
+  },
+  {
+    "camera_index_code": "081a4348a38e42dbb8fb01c2c2a16a9e",
+    "camera_name": "立信大道与吴都路南-ZHJT"
+  },
+  {
+    "camera_index_code": "e9f6f0abdb5b4904b6523690b395dec0",
+    "camera_name": "立信大道与吴都路西-ZHJT"
+  },
+  {
+    "camera_index_code": "401f27e8c56e4120b716e891a646696e",
+    "camera_name": "贡湖大道与震泽路西-ZHJT"
+  },
+  {
+    "camera_index_code": "6cc1b033ceb94e93a06aca0168dd0655",
+    "camera_name": "贡湖大道与震泽路南-ZHJT"
+  },
+  {
+    "camera_index_code": "a80b8d4e3ab84f139ffc093d762e475a",
+    "camera_name": "信成道与大通路西-ZHJT"
+  }
+]
